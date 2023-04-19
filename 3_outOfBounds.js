@@ -8,3 +8,5 @@ for( let i = 0; i <= numbers.length; i ++ ){
 }
 
 console.log( sum );
+
+// when code is looped through, the code reaches NaN (Not a Number)
